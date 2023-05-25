@@ -1,0 +1,142 @@
+@media screen and (max-width:1140px) {
+    .catalogmenu{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .catalogmenu__item {
+        max-width: 300px;
+        height: 450px;
+        height: 100%;
+        width: 100%;
+
+    }
+}
+@media screen and (max-width:960px) {
+    .aboutus__description{
+        flex-direction: column;
+        /* align-items: center; */
+    }
+    .banner{
+        margin: 0 0 60px 0;
+    }
+
+    
+}
+@media screen and (max-width:769px) {
+    .header__nav{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .form_wrap{
+        margin: 15px 0;
+    }
+    .search__form{
+        right: 0px;
+    }
+    .logo {
+        margin: 20px 0 0;
+    }
+    .banner{
+        margin: 0 0 50px 0;
+    }
+    .aboutus-h{
+        margin: 0 0 50px 0;
+    }
+    .aboutus{
+        margin: 0 0 50px 0;
+    }
+    .catalog-h{
+        margin: 0 0 50px 0;
+    }
+    .catalog__item-link{
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .catalog{
+        margin: 0 0 50px 0;
+    }
+    
+}
+@media screen and (max-width:680px) {
+    .catalogmenu__item{
+        max-width: 400px;
+        height: 550px;
+        height: 100%;
+        width: 100%;
+    }
+    
+}
+@media screen and (max-width:768px) {
+    .contacts__wrap{
+        flex-direction: column;
+    }
+    
+}
+@media screen and (max-width:582px) {
+    .banner__icon{
+        margin: 0 0 10px 0;
+
+    }
+    .banner-h{
+        font-size: 25px;
+        line-height: 27px;
+        margin: 0 0 30px 0;
+    }
+    .banner{
+        margin: 0 0 40px 0;
+    }
+    .aboutus-h{
+        margin: 0 0 40px 0;
+    }
+    .aboutus{
+        margin: 0 0 40px 0;
+    }
+    .catalog-h{
+        margin: 0 0 40px 0;
+    }
+    .catalog{
+        margin: 0 0 40px 0;
+    }
+    
+}
+@media screen and (max-width:460px) {
+    .catalogmenu__item{
+        max-width: 250px;
+        height: 350px;
+        height: 100%;
+        width: 100%;
+    }
+    .catalog__item-link{
+        font-size: 15px;
+        line-height: 15px;
+    }
+    
+}
+@media screen and (max-width:340px) {
+    .banner__icon{
+        margin: 0 0 5px 0;
+
+    }
+    .banner-h{
+        font-size: 20px;
+        line-height: 20px;
+        margin: 0 0 20px 0;
+    }
+    .banner{
+        margin: 0 0 30px 0;
+    }
+    .aboutus-h{
+        margin: 0 0 30px 0;
+    }
+    .aboutus{
+        margin: 0 0 30px 0;
+    }
+    .catalog-h{
+        margin: 0 0 30px 0;
+    }
+    .catalog{
+        margin: 0 0 30px 0;
+    }
+    
+}
+
