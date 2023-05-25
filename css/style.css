@@ -173,11 +173,7 @@ h2 {
     font-size: 18px;
     line-height: 21px;
 }
-.aboutus__description-img{
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-}
+
 .aboutus__description-p {
     padding: 0 0 20px;
 }

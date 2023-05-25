@@ -19,6 +19,11 @@
     .banner{
         margin: 0 0 60px 0;
     }
+    .aboutus__description-img{
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+    }
 
     
 }
